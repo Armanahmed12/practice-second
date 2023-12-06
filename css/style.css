@@ -6,4 +6,5 @@ body{
      justify-content: center;
      display: flex;
      font-size: 22px;
+     border-radius: 2rem;
 }
